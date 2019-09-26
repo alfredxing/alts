@@ -9,5 +9,8 @@
 	"scripts": {
 		"compile": "tsc -b",
 		"watch": "tsc -b -w"
+	},
+	"devDependencies": {
+		"@types/node": "^12.7.8"
 	}
 }
