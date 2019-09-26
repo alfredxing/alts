@@ -1,0 +1,12 @@
+{
+	"name": "altss",
+	"main": "./out/server",
+	"dependencies": {
+		"typescript": "^3.6.3",
+		"vscode-languageserver": "^5.2.1"
+	},
+	"scripts": {
+		"compile": "tsc -b",
+		"watch": "tsc -b -w"
+	}
+}
